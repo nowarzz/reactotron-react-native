@@ -35,7 +35,7 @@
   "peerDependencies": {
     "react": "^15.2.1 || 16.0.0-alpha.6 || 16.0.0-alpha.12 || 16.0.0-beta.5 || ^16.0.0",
     "react-native": ">=0.40.0",
-    "@react-native-community/async-storage":"*"
+    "@react-native-community/async-storage": "^1.4.0"
   },
   "dependencies": {
     "mitt": "1.1.3",
@@ -78,7 +78,8 @@
     "semantic-release": "16.0.0-beta.19",
     "trash-cli": "2.0.0",
     "ts-jest": "24.0.2",
-    "typescript": "3.4.5"
+    "typescript": "3.4.5",
+    "@react-native-community/async-storage": "^1.4.0"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",
